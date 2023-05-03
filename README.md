@@ -5,7 +5,7 @@
 
 ##
 
-Estou no 6° periodo na faculdade de Engenharia da Computação, e essas são as linguagens que estou estudando dentro e fora da universidade
+Estou no 7° periodo na faculdade de Engenharia da Computação, e essas são as linguagens que estou estudando dentro e fora da universidade
 <div>
   <img align="center" alt="Yanka-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Yanka-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
